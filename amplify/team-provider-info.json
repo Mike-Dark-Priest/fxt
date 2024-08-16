@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fxt-dev-a5c77-authRole",
+      "UnauthRoleArn": "arn:aws:iam::026090545219:role/amplify-fxt-dev-a5c77-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::026090545219:role/amplify-fxt-dev-a5c77-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-fxt-dev-a5c77-deployment",
+      "UnauthRoleName": "amplify-fxt-dev-a5c77-unauthRole",
+      "StackName": "amplify-fxt-dev-a5c77",
+      "StackId": "arn:aws:cloudformation:eu-north-1:026090545219:stack/amplify-fxt-dev-a5c77/170856e0-5bb7-11ef-9bed-0675b666beb7",
+      "AmplifyAppId": "d32udu101g7v5t"
+    },
+    "categories": {
+      "auth": {
+        "fxt632488ac": {}
+      }
+    }
+  }
+}
